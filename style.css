@@ -1,0 +1,11 @@
+body {
+    font-family: "Open Sans Condensed", sans-serif;
+}
+
+#lists {
+    display: flex;
+}
+
+#products, #companies {
+    flex: 1;
+}
